@@ -14,12 +14,9 @@ progress 1-10 done except 8,
 todo:
 8
 11
-15
-16
 17
 18
 19
-20
 21
 22
 23
