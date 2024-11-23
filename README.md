@@ -2,7 +2,9 @@
 
 My solutions to projecteuler 1-100 + (bonuses I have to remove/password restrict)
 
-Files created but probems not solved : 8, 11, 80
+Files created but probems not solved : 8, 11, 29, 80
+
+Number of solutions available currently : 26
 
 todo:
 8
@@ -10,20 +12,12 @@ todo:
 17
 18
 19
-21
-22
 23
-24
-25
-26
-27
 28
 29
-30
 31
 32
 33
-34
 35
 36
 37

@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "cstdlib": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "iostream": "cpp"
   }
 }
