@@ -84,7 +84,7 @@ def minSol(n):
 bval = 2
 bvalc = [3,2]
 
-for i in range(2,int(1e5)):
+for i in range(2,int(1e3)):
     if(not issrt(i)):
         tsol = minSol(i)
         if(tsol[0]>bvalc[0]):
@@ -92,4 +92,3 @@ for i in range(2,int(1e5)):
             bval = i
 
 print(bval,bvalc)
-
