@@ -35,8 +35,8 @@ int main() {
         a.push_back({2 * a[a.size() - 1].first + 3 * a[a.size() - 1].second,
                      a[a.size() - 1].first + 2 * a[a.size() - 1].second});
 
-    for (int i = 0; i < a.size(); i++)
-        cout << a[i].first << ' ' << a[i].second << '\n';
+    // for (int i = 0; i < a.size(); i++)
+    //     cout << a[i].first << ' ' << a[i].second << '\n';
 
     ll ans = 0;
 

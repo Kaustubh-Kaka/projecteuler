@@ -4,7 +4,7 @@ My solutions to projecteuler 1-100 + (bonuses I have to remove/password restrict
 
 Files created but probems not solved : 8, 11, 29, 80
 
-Number of solutions available currently : 29
+Number of solutions available currently : 35
 
 todo:
 8
@@ -74,7 +74,6 @@ todo:
 91
 92
 93
-94
 95
 96
 98
