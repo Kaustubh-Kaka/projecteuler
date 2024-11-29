@@ -4,6 +4,8 @@ My solutions to projecteuler 1-100 + (bonuses I have to remove/password restrict
 
 Files created but probems not solved : 8, 11, 29, 80
 
+To optimize : 77(can be done in O(n), similar technique in 78)
+
 Number of solutions available currently : 35
 
 todo:
@@ -57,7 +59,6 @@ todo:
 74
 75
 76
-77
 78
 79
 81
