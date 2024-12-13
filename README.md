@@ -6,14 +6,11 @@ Files created but probems not solved : 8, 11, 29, 80
 
 To optimize : 77(can be done in O(n), similar technique in 78)
 
-Number of solutions available currently : 35
+Number of solutions available currently : 38
 
 todo:
 8
 11
-17
-18
-19
 23
 28
 29
@@ -49,7 +46,6 @@ todo:
 61
 62
 63
-67
 68
 69
 70
