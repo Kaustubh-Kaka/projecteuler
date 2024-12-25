@@ -6,7 +6,7 @@ Files created but probems not solved : 8, 11, 29, 80
 
 To optimize :
 77(can be done in O(n), similar technique in 78)
-96(hyperoptimise i/o)
+96(hyperoptimise i/o, share possible solution data across recursion calls)
 719(remove recursion 1.5billion function calls :skull)
 
 Number of solutions available currently : 40
