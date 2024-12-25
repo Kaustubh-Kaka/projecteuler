@@ -4,9 +4,11 @@ My solutions to projecteuler 1-100 + (bonuses I have to remove/password restrict
 
 Files created but probems not solved : 8, 11, 29, 80
 
-To optimize : 77(can be done in O(n), similar technique in 78)
+To optimize :
+77(can be done in O(n), similar technique in 78)
+719(remove recursion 1.5billion function calls :skull)
 
-Number of solutions available currently : 38
+Number of solutions available currently : 39
 
 todo:
 8
