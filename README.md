@@ -8,11 +8,11 @@ To optimize :
 77
 (can be done in O(n), similar technique in 78), note from future : I am dumb, to the best of my knowledge O(n^2) is the best possible solution, solved it but took 8s (:sad), nvm, O(n) solution does exist using binomial coeffients, use star delta to compute the number of ways to split n into k parts and sum this over k in 1..n(is there a closed from?), but this solution needs double/bigint
 96
-(hyperoptimise i/o, share possible solution data across recursion calls)
+(hyperoptimise i/o, share possible solution data across recursion calls, 3d vector)
 719
 (remove recursion, 1.5billion function calls :skull)
 
-Number of solutions available currently : 43
+Number of solutions available currently : 44
 
 todo:
 8
@@ -27,7 +27,6 @@ todo:
 36
 37
 38
-39
 
 40
 41
