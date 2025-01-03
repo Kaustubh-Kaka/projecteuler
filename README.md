@@ -7,7 +7,10 @@ Files created but probems not solved : 8, 11, 29, 80
 To optimize :
 
 77
-(can be done in O(n), similar technique in 78), note from future : I am dumb, to the best of my knowledge O(n^2) is the best possible solution, solved it but took 8s (:sad), nvm, O(n) solution does exist using binomial coeffients, use star delta to compute the number of ways to split n into k parts and sum this over k in 1..n(is there a closed from?), but this solution needs double/bigint, turns out there is a legitimate O(n*sqrt(n)) solution using euler's pentagonal number theorem. cool(must implement or will forget).
+Euler's pentagonal number theorem
+
+351
+More efficient computation of (sum)phi(n), (Read doc)
 
 96
 (hyperoptimise i/o, share possible solution data across recursion calls, 3d vector)
