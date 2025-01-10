@@ -18,7 +18,7 @@ More efficient computation of (sum)phi(n), (Read doc)
 719
 (remove recursion, 1.5billion function calls :skull)
 
-Number of solutions available currently : 44
+Number of solutions available currently : 51
 
 todo:
 
