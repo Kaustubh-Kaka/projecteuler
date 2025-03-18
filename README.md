@@ -18,7 +18,13 @@ More efficient computation of (sum)phi(n), (Read doc)
 719
 (remove recursion, 1.5billion function calls :skull)
 
-Number of solutions available currently : 51
+265
+Too slow, optimise using euler tour
+
+285
+Solved using desmos, write code(maybe python)
+
+Number of solutions available currently : 56
 
 todo:
 
