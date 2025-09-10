@@ -4,6 +4,10 @@ My solutions to projecteuler 1-100 + (bonuses I have to remove/password restrict
 
 Files created but probems not solved : 8, 11, 29, 80
 
+Todo :
+
+Add support for benchmarking the solutions
+
 To optimize :
 
 77
