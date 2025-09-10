@@ -24,17 +24,14 @@ Too slow, optimise using euler tour
 285
 Solved using desmos, write code(maybe python)
 
-Number of solutions available currently : 56
+213 
+Don't overuse lambdas, too much copying
+
+Number of solutions available currently : (I lost count)
 
 todo:
 
-8
-
-11
-
 23
-28
-29
 
 33
 36
@@ -46,10 +43,7 @@ todo:
 42
 43
 44
-45
-46
 47
-48
 49
 
 50
