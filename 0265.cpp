@@ -1,12 +1,4 @@
-#include <algorithm>
-#include <chrono>
-#include <deque>
-#include <fstream>
-#include <iomanip>
-#include <iostream>
-#include <map>
-#include <set>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 using namespace std::chrono;
 

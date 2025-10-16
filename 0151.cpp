@@ -1,9 +1,4 @@
-#include <chrono>
-#include <fstream>
-#include <iomanip>
-#include <iostream>
-#include <map>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 using namespace std::chrono;
 
