@@ -1,7 +1,6 @@
 
 # Project Euler
 
-![project euler]((https://projecteuler.net/profile/KaustubhKaka.png))
 This repository contains my solutions to Project Euler problems.
 
 ### Number of solutions available currently : 87
